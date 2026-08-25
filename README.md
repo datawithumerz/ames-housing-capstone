@@ -158,13 +158,13 @@ The project does not include model training or evaluation. It represents the EDA
 
 │   ├── raw/
 
-│   │   └── ames-hosuing.csv          
+│   │   └── ames-housing.csv          
 
 │   └── processed/
 
-│       └── cleaned\_ames-housing.csv   
+│       └── clean_ames-housing.csv   
 
-├── notebook.ipynb
+├── eda-ames-housing.ipynb
 
 ├── README.md
 
