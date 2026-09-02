@@ -1,0 +1,17 @@
+# Core data handling
+pandas>=1.5
+numpy>=1.23
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+
+# Modeling & preprocessing
+scikit-learn>=1.2
+
+# Statistical diagnostics
+statsmodels>=0.13
+
+# Notebook execution
+jupyter>=1.0
+ipykernel>=6.0
